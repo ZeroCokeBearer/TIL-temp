@@ -1,5 +1,14 @@
-fffff
-dddd
-ggggg
-aaaaa
-eeee
+git remote -v
+현재 연결된 웹 리포지토리 확인
+
+git pull
+git add .
+git commit -m "clean push"
+git push
+기존 리포지토리 깔끔하게 pull/push
+
+git remote remove origin
+기존 리모트 리포지토리 제거
+
+git remote add origin https:~~
+새 리모트 리포지토리 추가
