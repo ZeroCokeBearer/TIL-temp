@@ -18,3 +18,13 @@ git clone 주소
 
 git fetch 
 병합 
+
+git init
+.git 폴더 만들어서 해당 폴더를 리포지토리로 만듦
+
+rm -rf .git
+.git 폴더를 지운다
+rm -r -> recursive
+rm -f -> force
+
+서브모듈(저장소 안에 저장소)
