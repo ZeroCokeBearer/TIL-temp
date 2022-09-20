@@ -63,3 +63,9 @@ Link: [Google](https://google.com, "google link")
 ##### 리포지토리
  - 정의 : 여러 파일을 하나로 모든 컬렉션
  - 일반 : 디렉터리와 리포지톨의 차이: git 폴더
+
+
+ ### 저자소 상태 확인하기
+ ```
+ git status
+ ```
